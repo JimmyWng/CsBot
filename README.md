@@ -1,0 +1,2 @@
+# CsBot
+EconomyBot by Whity
